@@ -1,0 +1,19 @@
+body {
+  direction: rtl;
+}
+.bg {
+  background-image: url("https://safarin.net/wp-content/uploads/2021/03/21-03-01_20-01-21.jpg");
+  background-color: #cccccc00;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.services {
+  background-image: url("https://mybayutcdn.bayut.com/mybayut/wp-content/uploads/Jabel-Hafeet-COVER-ar242021.jpg");
+  background-color: #cccccc00;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
